@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易舉要
-#+DATE: 2015-09-23 09:34:48
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:56:09.937368
+#+PROPERTY: ID KR1a0065
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0065_WYG_004-1a>¶
 欽定四庫全書¶
 　讀易舉要卷四　　　　　　宋　俞琰　撰¶
@@ -710,4 +712,3 @@
 　¶
 　¶
 讀易舉要卷四¶
-

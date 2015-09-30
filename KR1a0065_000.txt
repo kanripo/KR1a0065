@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易舉要
-#+DATE: 2015-09-23 09:34:48
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:56:09.859074
+#+PROPERTY: ID KR1a0065
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要 
 <pb:KR1a0065_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　讀易舉要　　　　　　易𩔖¶
@@ -37,6 +39,7 @@
 　　　　校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 目錄
 <pb:KR1a0065_WYG_000-3a>¶
 欽定四庫全書¶
 　讀易舉要目錄¶
@@ -80,4 +83,3 @@
 　　　古文周易十二篇¶
 　　　漢儒相傳之易¶
 　　　魏晉以後唐宋以來諸家著述¶
-
